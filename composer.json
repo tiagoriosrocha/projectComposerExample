@@ -1,0 +1,20 @@
+{
+    "name": "tiagoriosrocha/testcomposer",
+    "autoload": {
+        "psr-4": {
+            "Tiagoriosrocha\\Testcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "tiagoriosrorha",
+            "email": "tiagoriosrocha@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "8.1.6"
+    },
+    "require-dev": {
+        "fzaninotto/faker": "^1.4"
+    }
+}
